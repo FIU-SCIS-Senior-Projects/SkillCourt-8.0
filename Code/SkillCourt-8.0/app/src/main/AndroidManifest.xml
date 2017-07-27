@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fiu.com.skillcourt">
+
+    <application
+        android:name=".SkillCourtApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.LauncherActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.intro.IntroActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity
+            android:name=".ui.register.RegisterActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity
+            android:name=".ui.dashboard.MainDashboardActivity"
+            android:label="@string/app_name" />
+        <activity android:name=".ui.startgame.StartGameActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".ui.creategame.CreateGameActivity"/>
+        <activity android:name=".ui.statistics.StatsActivity"/>
+        <activity
+            android:name=".ui.dynamicsteps.DynamicStepsActivity"
+            android:label="@string/title_activity_dynamic_steps"
+            android:parentActivityName=".ui.base.BaseActivity"
+            android:theme="@style/AppTheme">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="fiu.com.skillcourt.ui.base.BaseActivity" />
+        </activity>
+        <activity android:name=".ui.coach_dashboard.CoachingDashboardActivity"/>
+        <activity android:name=".ui.new_team.NewTeam" />
+        <activity android:name=".ui.search_user.SearchUserActivity" />
+        <activity android:name=".ui.team_details.TeamDetailsActivity"></activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

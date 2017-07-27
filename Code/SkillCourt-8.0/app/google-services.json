@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413613777767",
+    "firebase_url": "https://skillcourt-1e97e.firebaseio.com",
+    "project_id": "skillcourt-1e97e",
+    "storage_bucket": "skillcourt-1e97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413613777767:android:2c1c96be313325d6",
+        "android_client_info": {
+          "package_name": "fiu.com.skillcourt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413613777767-stqamfnqtq0n7n4mook1sc9ratj397nm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fiu.com.skillcourt",
+            "certificate_hash": "4A44F96020FB1AC30AC5592826DDC73DB7812569"
+          }
+        },
+        {
+          "client_id": "413613777767-chl1td5tgs7ico4iaf4hu6fngb90dlqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MBCYe9d491ylmcD0336oYoHaK9Ien2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413613777767-chl1td5tgs7ico4iaf4hu6fngb90dlqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

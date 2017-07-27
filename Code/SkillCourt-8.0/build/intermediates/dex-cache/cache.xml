@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_1dea76e997ab627464b7bf26801a89d170fd21ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6a312f10898c480be3f180081dfe141c84f7a857\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e424bf57cbb2711ca5bcaa183e213d85a8b9882b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\27f5aeb16b96d521b7cde752d9b7146fe9f66bdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09f183e214ef90deebdfbe612ae2d65b16b59683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\467aff191af306a5ada439433e5fa6d4d22e3484\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_246910a0b85b287f38807abe2e370774f02a560f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1cffdf69a9566edff729b979587aff0b0f6aeabe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_511e960cbfff96bd65b06da05c1e156baed6d8a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\404c5d7b303b1eff7c9986383c03f40cfe7a2f62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e976c953e346f2a2b952a9c5b98050e5b8de757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\3ae8ecdf0da9387a2a9ddf694122f9f59c1a9c8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4c0b913003aa77243410d4ef2e612119010899e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\8b8b0f6b25f8c9ecb5dc78c881da1d6e06fb111f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa80b110f111436d07a0733806ae8a69d8b5e9c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6a312f10898c480be3f180081dfe141c84f7a857\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b46a34a57d082d4f9f581971517f567c07c27d09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\68dd94cf0d88942c45633756f5c4fd969e8ea375\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9042e144a1a9212a664c1b6b5a9d8e921ad42e06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\040bb3e7bc3b3c79005924522b9ccb7ea17bd715\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43bb59fe9621392af340c218abcc0082adbc5f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b243509b37e53d1b798971dde76473bbae47dc26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26fd5dc1d69d789429bdb38347a3765c2172424f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1513da0223e7e86df42ac3d44efd44676ffb3479\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90ea3320d5458604594b3b79a36f075e1cc79f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_fca43bf4c68a8d63a3552959fbbcff462d325295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\9c5c4d9644b9f10978b3cbafe590f28f66c7347d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2510e904e2916e1ee39457263be2655b7351578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\09903ee55cf277ac183edcbbf1db224521e79d54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3a34e586561907c5771d8626fee7830ba53a3b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_da4774efa86efa9b4038301fa8a58566c4d0ee2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\09903ee55cf277ac183edcbbf1db224521e79d54\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3a34e586561907c5771d8626fee7830ba53a3b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\bb2452a85af2c8f7720245535c3f6a58cb21da7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a00708367ab3a8f72a5aecdd1c3931b971ca8945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\0b16b35708bea31da2b928ecfa4812470257b37a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b0b37aacc3aba6e227ddb1e99547847d78eb30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b1326eeaff0007bf2826a4d6279acd817dbd4a7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e80b368aedde69d316b9703013064f9579818c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\bead9ddf9731f9d7a946048d337b6fb095331d2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49e35830e21e49cb8243b5b746a1cae9304c6f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb212317166cce998b71f0f8817f15346ff2d135">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_099034fc3c5dfd0e9ba545b8fdafcccd8f07c452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_74d629a537a1f28071e1ebca5762d7a4ac6b62c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\7f5eb3cbccc8ed75df5cd32775268af8a6675c62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca46afa4a3220ec8379c1eebb0238fa47affd0cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1cffdf69a9566edff729b979587aff0b0f6aeabe\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_60435ed93a9af77ac8c34661d93d2e355eebf51b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\8b8b0f6b25f8c9ecb5dc78c881da1d6e06fb111f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa80b110f111436d07a0733806ae8a69d8b5e9c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\68dd94cf0d88942c45633756f5c4fd969e8ea375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025063c4c03baa1b6759432195024dd8e5a3f92">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9042e144a1a9212a664c1b6b5a9d8e921ad42e06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6a312f10898c480be3f180081dfe141c84f7a857\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b46a34a57d082d4f9f581971517f567c07c27d09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\aa8a6acffa7439401d15f62fa377f65ca4c22308\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03859e37108ae1cff9f259ab80b0cea3901678ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1cffdf69a9566edff729b979587aff0b0f6aeabe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_511e960cbfff96bd65b06da05c1e156baed6d8a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\60d0c64433ba30780cefa1d447af619561a96546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47642b975228db4ddd0af6bb76251e2e1ba769e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\dadb2cbc8fa76bc93e97051968e2c3ca2ca520ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a50373777d0560dc496866fefbed3d4eeb8e8fee">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeb93ebf41efb33ae23d161cca70aec1d75af447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_1dea76e997ab627464b7bf26801a89d170fd21ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_da4774efa86efa9b4038301fa8a58566c4d0ee2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\0b16b35708bea31da2b928ecfa4812470257b37a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b0b37aacc3aba6e227ddb1e99547847d78eb30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5d37da010b9c8a71d18a0a68de74ee92ec925c9c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0da3215c26483d44d5a0cd8cfc3224fdff5c77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\bb2452a85af2c8f7720245535c3f6a58cb21da7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a00708367ab3a8f72a5aecdd1c3931b971ca8945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\bead9ddf9731f9d7a946048d337b6fb095331d2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49e35830e21e49cb8243b5b746a1cae9304c6f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\ec18778d549b83c15f32986afff18725359c3680\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19580ca7406fdd537a84fb97fa3d511990cedcc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\60d0c64433ba30780cefa1d447af619561a96546\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47642b975228db4ddd0af6bb76251e2e1ba769e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\3ae8ecdf0da9387a2a9ddf694122f9f59c1a9c8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4c0b913003aa77243410d4ef2e612119010899e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\7f5eb3cbccc8ed75df5cd32775268af8a6675c62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca46afa4a3220ec8379c1eebb0238fa47affd0cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6a312f10898c480be3f180081dfe141c84f7a857\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e424bf57cbb2711ca5bcaa183e213d85a8b9882b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\71e0ca5b4c62a645b1c08561bd19b82966de8994\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa8ab1f8ec4fcf639c9d92f07e2f78c41e7f5097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5d2d85435d59feb190121f87a5c42fb31244a42a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4367dad6610690a1317862b5641e6617edb1339e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\33be29d3fe875dae85dc5f71fc578cb77c05741c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_707f0e3dae9868982ca37e95da60eaf1461707d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\2ead6ceaa76eadb25b8be15917303e6a1e9b1494\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d842d3f567616c3c6fd4fec5eeffa0e05b34266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\dadb2cbc8fa76bc93e97051968e2c3ca2ca520ba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a50373777d0560dc496866fefbed3d4eeb8e8fee">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeb93ebf41efb33ae23d161cca70aec1d75af447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\86081838e2ae51b5f1be2613b4c63a6a72cde2a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_701cb3f3e481942fe5324a3759580a5bc24e463a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_830a63299164866cc5dbf6a3e186471a2e9616e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\aa8a6acffa7439401d15f62fa377f65ca4c22308\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03859e37108ae1cff9f259ab80b0cea3901678ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\af20305d2a86fd23411aaef0fc47974785f1db38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a8b9fefbc5db330c8cb6ad9d1465c08beddf35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5d37da010b9c8a71d18a0a68de74ee92ec925c9c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0da3215c26483d44d5a0cd8cfc3224fdff5c77a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\ad8bb19a646e109d7fd003aeac3e3a16b755f516\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3915f143b1781e9e8fe8ca52a84745d4a93ddb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c963b3e846e1dd7ce3bd7aaa4ec39cc91f75a4f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61ff4873ae8aa54c09f4fdd288562c844cca48d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\59299c7b8b22f79442c7d1d27e2628c5727dcf0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_692489cc31ceb8ada27839a6a115eb94e35286fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\acdfdf8b8b4e580a877cf037d039ec380e6babdf\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_38712652de31762647ea52e046bbc70966ea2a26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\ec18778d549b83c15f32986afff18725359c3680\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19580ca7406fdd537a84fb97fa3d511990cedcc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\13ff1f94799ba102812175eef1ffeee7ff4fbdc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_682511dceff2a7173bcc5c920756e59ae6c4dd1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\522b0f44c17b5224b0e67c556a7462261bae44d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ce7f8481ae6dc13a5fb1b2d33df103f174e63e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\770433deb5dc4176de84e5f9df52cfef7183adb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec1e67cd48294c3c754aabe4208e95ecee019023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0\ff93baa2e2e6ca507fc6ec731f61751dd0d865e7\MPAndroidChart-v3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff93baa2e2e6ca507fc6ec731f61751dd0d865e7">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.0_7f461a74c330f306f912647b6544d5b78030d981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\040bb3e7bc3b3c79005924522b9ccb7ea17bd715\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43bb59fe9621392af340c218abcc0082adbc5f9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\27f5aeb16b96d521b7cde752d9b7146fe9f66bdf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09f183e214ef90deebdfbe612ae2d65b16b59683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5d2d85435d59feb190121f87a5c42fb31244a42a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4367dad6610690a1317862b5641e6617edb1339e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1e6428aa05312174e43cc5448e6e89ca7d3aab03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f28286ca6023ffc0e8dbcd3b1ff757ad77fa8693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5239cd2536728e4f5439c3f4adcb2cd43869fe62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcda9fda9d27f7b0a096161aeca6994bd9b1ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_830a63299164866cc5dbf6a3e186471a2e9616e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c963b3e846e1dd7ce3bd7aaa4ec39cc91f75a4f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61ff4873ae8aa54c09f4fdd288562c844cca48d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\33be29d3fe875dae85dc5f71fc578cb77c05741c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_707f0e3dae9868982ca37e95da60eaf1461707d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\af20305d2a86fd23411aaef0fc47974785f1db38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a8b9fefbc5db330c8cb6ad9d1465c08beddf35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\ad8bb19a646e109d7fd003aeac3e3a16b755f516\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3915f143b1781e9e8fe8ca52a84745d4a93ddb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\d6ad47fe0b5ba1929108164b1fdbcb7c2b93dfbf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_530e48d6487661b42acd1a3356c0032bf8dda81b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b1326eeaff0007bf2826a4d6279acd817dbd4a7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e80b368aedde69d316b9703013064f9579818c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\13ff1f94799ba102812175eef1ffeee7ff4fbdc1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_682511dceff2a7173bcc5c920756e59ae6c4dd1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\ac98f71598268b4cc9b745439bbe5c6ce3636286\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a61a49a6c7aaf36d9355c6c9263e8331618c008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6709bc80ebe5d854a983570bc0bb53f9028ab6c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8715f593eb188bc717dbf2bfb2087f710159c5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b243509b37e53d1b798971dde76473bbae47dc26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26fd5dc1d69d789429bdb38347a3765c2172424f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\acdfdf8b8b4e580a877cf037d039ec380e6babdf\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_38712652de31762647ea52e046bbc70966ea2a26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.2\91731b8f5868a3e8a8a773f29b8d06b5c358f5bb\firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.2_74d629a537a1f28071e1ebca5762d7a4ac6b62c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\59299c7b8b22f79442c7d1d27e2628c5727dcf0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_692489cc31ceb8ada27839a6a115eb94e35286fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\770433deb5dc4176de84e5f9df52cfef7183adb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec1e67cd48294c3c754aabe4208e95ecee019023\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1cffdf69a9566edff729b979587aff0b0f6aeabe\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_60435ed93a9af77ac8c34661d93d2e355eebf51b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\7ac92ab7bd9e3125df5b9e4a77d63c380c0dd0a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_426c316924048c2fcceecb588a8544e86f417382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5239cd2536728e4f5439c3f4adcb2cd43869fe62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adcda9fda9d27f7b0a096161aeca6994bd9b1ae0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\acdfdf8b8b4e580a877cf037d039ec380e6babdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_080aa5f77d54b58ab954c24cb95439f60ef3b8fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_058766527fa3fe566ac3e02e672b540baae42467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\d86bfe80a27200954d65502e2b7725b6cda47064\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79c30f926df705b25a8c87365ebebc9d47cad995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6f91d0c449f2dee5b08d43a214461f63dbc24b4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02ab04ea08aeeeaf95cf0e8cc737dcceb4648e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c616aa60d14a21450c26a0052bff9e79c3800ce4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4456e4bacf8fb2b02baef3218d5b1232751b4015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1e6428aa05312174e43cc5448e6e89ca7d3aab03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f28286ca6023ffc0e8dbcd3b1ff757ad77fa8693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\d6ad47fe0b5ba1929108164b1fdbcb7c2b93dfbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_530e48d6487661b42acd1a3356c0032bf8dda81b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c6eb715012262dfc94444e60c63e373d13adb749\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47b4413c82621cea68a27fd179b64f8a392de4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c9f306bad203b131eb0f38b247e281fb89619266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83e75519b601967d06429d9510dd56c30dbc14be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\3f275c6e42bd15da38cb72f72b571996f63fa9db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd031cb1b37635c423c8508bb619d3c6d51d647b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5d1fc3d200602d16c9970b21ece5ba4212f622c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9365d4cc9f73b3511d7a773a232bfe6b8688d1c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_12b0a9767b7a77ec33af6a96749f1623c6270bd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\ac98f71598268b4cc9b745439bbe5c6ce3636286\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a61a49a6c7aaf36d9355c6c9263e8331618c008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\522b0f44c17b5224b0e67c556a7462261bae44d7\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0cb3a2ede1bec2eaeff3ab6d99cca1b38d9fbf67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\7ac92ab7bd9e3125df5b9e4a77d63c380c0dd0a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_426c316924048c2fcceecb588a8544e86f417382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\acdfdf8b8b4e580a877cf037d039ec380e6babdf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_080aa5f77d54b58ab954c24cb95439f60ef3b8fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\550902c94b055106b5673f1f7ac2ada314271570\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1c159e11b626dc0559bddd29d48d964270db842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_5e94e58c7cc7c59a84ecaf50c089c3c853541a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6709bc80ebe5d854a983570bc0bb53f9028ab6c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8715f593eb188bc717dbf2bfb2087f710159c5c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_058766527fa3fe566ac3e02e672b540baae42467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1f1a3bf8ce39dd391371ffa2ebef02f24bd19323\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3fa824d014eef23603653361e324f688f7122d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\6f91d0c449f2dee5b08d43a214461f63dbc24b4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02ab04ea08aeeeaf95cf0e8cc737dcceb4648e1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\3f275c6e42bd15da38cb72f72b571996f63fa9db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd031cb1b37635c423c8508bb619d3c6d51d647b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_5e94e58c7cc7c59a84ecaf50c089c3c853541a6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\84692872a4f1a41f264c8823b1a3829cc823250d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8161c5c1839fc4f92b690b6357e34adf46860838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c9f306bad203b131eb0f38b247e281fb89619266\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83e75519b601967d06429d9510dd56c30dbc14be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\57f865cf33e480b9275dac0526cf6d9aa4a33d3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3220b68627afdc95aefb2f66cf9047c51b5380a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\86081838e2ae51b5f1be2613b4c63a6a72cde2a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_701cb3f3e481942fe5324a3759580a5bc24e463a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\522b0f44c17b5224b0e67c556a7462261bae44d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0ce7f8481ae6dc13a5fb1b2d33df103f174e63e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0\ff93baa2e2e6ca507fc6ec731f61751dd0d865e7\MPAndroidChart-v3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ff93baa2e2e6ca507fc6ec731f61751dd0d865e7">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.0_7f461a74c330f306f912647b6544d5b78030d981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\bb2452a85af2c8f7720245535c3f6a58cb21da7a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2dd66ae76b0fac4ab16090f98e6fe607c93ff374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\3ef98fe79ecd5d589194959c97006af280436649\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83daeeb3f79a648bcd616463bcd9d88601e262fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\53b6331a502d8b4704e3d2dc8ee452eca2a2b911\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c8fd3cc84dc41de312f61ca292927d85afdcebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\8cce34e183a71d598600ae94484953245462f593\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_099e1b05bc00eaf370f2de08a58e88fc3c047801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\dd9957d06c4065a4a7209b7f9a15bbd5d07a963a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ed8e3e42d4b800ac0f5d33f515c8625e9b21c40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b8e60a75dfd5c606000c5737cda3679b64f7dd96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47b791ad110c5dadb0fb515760baec85751331a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\550902c94b055106b5673f1f7ac2ada314271570\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1c159e11b626dc0559bddd29d48d964270db842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b136f825282d057a876ba885e7b9ff7326175c48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33e6ab0b1c577376abe8712deca2c0ac75d96de4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1f1a3bf8ce39dd391371ffa2ebef02f24bd19323\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3fa824d014eef23603653361e324f688f7122d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\9677b4319e3939ea38b236a8eaeae535242eea08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_213001b2c88a8300201095271f497ddbb554d6cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\0ca8b97ce13c646df86df68df1cf8d4f0030d64d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cb8115a14cd260b1a56428e526249416a4e46ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\13ff1f94799ba102812175eef1ffeee7ff4fbdc1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_45350ddd369858bdf101c8e0b8002948dfb1d951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\43a32f52dccc8b804f1a386efde8ee8d2839e448\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_996b4e762f2f20163d9a9b97036636cdc4b1dffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\53b6331a502d8b4704e3d2dc8ee452eca2a2b911\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c8fd3cc84dc41de312f61ca292927d85afdcebb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\365f7062c58eaa7c8e55604690cb5b2ec42a5a45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7a07cd45356571a3f6f8029879fb8a772460a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\07d860b5036b09635893275f70577cd160903adf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daebbe820053e9aa4e6b8924da917f03ab3e27a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\87ff05ebea9cd178fc60bd2cb34d9435dfe7c334\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01f3831ae2d0c24e193a3795f198d3785f2bb689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\84692872a4f1a41f264c8823b1a3829cc823250d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8161c5c1839fc4f92b690b6357e34adf46860838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\bb2452a85af2c8f7720245535c3f6a58cb21da7a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2dd66ae76b0fac4ab16090f98e6fe607c93ff374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\2ead6ceaa76eadb25b8be15917303e6a1e9b1494\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d842d3f567616c3c6fd4fec5eeffa0e05b34266\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\57f865cf33e480b9275dac0526cf6d9aa4a33d3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3220b68627afdc95aefb2f66cf9047c51b5380a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\71e0ca5b4c62a645b1c08561bd19b82966de8994\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa8ab1f8ec4fcf639c9d92f07e2f78c41e7f5097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\404c5d7b303b1eff7c9986383c03f40cfe7a2f62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e976c953e346f2a2b952a9c5b98050e5b8de757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b136f825282d057a876ba885e7b9ff7326175c48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33e6ab0b1c577376abe8712deca2c0ac75d96de4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\b8e60a75dfd5c606000c5737cda3679b64f7dd96\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47b791ad110c5dadb0fb515760baec85751331a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\d86bfe80a27200954d65502e2b7725b6cda47064\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79c30f926df705b25a8c87365ebebc9d47cad995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\9c5c4d9644b9f10978b3cbafe590f28f66c7347d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2510e904e2916e1ee39457263be2655b7351578\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\8cce34e183a71d598600ae94484953245462f593\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_099e1b05bc00eaf370f2de08a58e88fc3c047801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\9677b4319e3939ea38b236a8eaeae535242eea08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_213001b2c88a8300201095271f497ddbb554d6cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\13ff1f94799ba102812175eef1ffeee7ff4fbdc1\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_45350ddd369858bdf101c8e0b8002948dfb1d951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\467aff191af306a5ada439433e5fa6d4d22e3484\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_246910a0b85b287f38807abe2e370774f02a560f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.2\f19f10d6276aa0b380e2d05d2ab3272d693a5433\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.2_fca43bf4c68a8d63a3552959fbbcff462d325295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\0ca8b97ce13c646df86df68df1cf8d4f0030d64d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9cb8115a14cd260b1a56428e526249416a4e46ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\dd9957d06c4065a4a7209b7f9a15bbd5d07a963a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ed8e3e42d4b800ac0f5d33f515c8625e9b21c40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\3ef98fe79ecd5d589194959c97006af280436649\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83daeeb3f79a648bcd616463bcd9d88601e262fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\43a32f52dccc8b804f1a386efde8ee8d2839e448\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_996b4e762f2f20163d9a9b97036636cdc4b1dffc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c616aa60d14a21450c26a0052bff9e79c3800ce4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4456e4bacf8fb2b02baef3218d5b1232751b4015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\5d1fc3d200602d16c9970b21ece5ba4212f622c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9365d4cc9f73b3511d7a773a232bfe6b8688d1c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\c6eb715012262dfc94444e60c63e373d13adb749\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47b4413c82621cea68a27fd179b64f8a392de4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\1513da0223e7e86df42ac3d44efd44676ffb3479\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90ea3320d5458604594b3b79a36f075e1cc79f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\07d860b5036b09635893275f70577cd160903adf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daebbe820053e9aa4e6b8924da917f03ab3e27a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\365f7062c58eaa7c8e55604690cb5b2ec42a5a45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7a07cd45356571a3f6f8029879fb8a772460a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\87ff05ebea9cd178fc60bd2cb34d9435dfe7c334\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01f3831ae2d0c24e193a3795f198d3785f2bb689\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richi\.android\build-cache\522b0f44c17b5224b0e67c556a7462261bae44d7\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Richi\Documents\MVP\develop\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0cb3a2ede1bec2eaeff3ab6d99cca1b38d9fbf67\classes.dex" />
+    </item>
+
+</items>

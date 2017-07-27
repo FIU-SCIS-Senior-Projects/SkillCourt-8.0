@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SkillCourt</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_dynamic_steps">DynamicStepsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="time">Time</string>
+    <string name="game_mode">Game mode</string>
+    <string name="tvsequences">Sequences</string>
+    <string name="start_game">Start game</string>
+    <string name="pick_game_mode">Select a game mode</string>
+    <string name="verifying_connection_to_arduinos">Verifying connection to arduinos</string>
+    <string name="time_objective">Time Objective</string>
+    <string name="open_drawer">Skill Court</string>
+    <string name="close_drawer">Skill Court</string>
+    <string name="home_title">Home</string>
+    <string name="dynamic_seq_title">Dynamic Sequences</string>
+    <string name="Statistics">Statistics</string>
+    <string name="Coaching">Coaching</string>
+    <string name="score_placeholder">Score: %s</string>
+    <string name="accuracy_placeholder">Accuracy: %s \%</string>
+    <string name="game_mode_placeholder">Game mode: %s</string>
+    <string name="game_time_placeholder">Game time: %s</string>
+
+    <string-array name="game_modes">
+        <item>Beat Timer</item>
+        <item>Hit mode</item>
+    </string-array>
+
+    <string name="ok_text">OK!</string>
+    <string name="add_text">ADD!</string>
+    <string name="search_title">Search Users</string>
+    <string name="search_hint">Type user\'s email address</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_coaching_dashboard">Your teams</string>
+    <string name="save">Save</string>
+    <string name="new_team_desc_hint">Description of your new team (optional)</string>
+    <string name="new_team_name_hint">New team name</string>
+</resources>

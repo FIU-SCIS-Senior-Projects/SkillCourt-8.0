@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/team_detail_header">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/generic_soccer_logo"
+        android:padding="30dp"
+        android:id="@+id/imageView3" />
+
+    <TextView
+        android:text="Team Name"
+        android:id="@+id/textView_team_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+        <TextView
+            android:text="Team Description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView_team_desc"
+            android:layout_below="@+id/textView_team_name"
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        app:fabSize="normal"
+        app:backgroundTint="@color/colorPrimary"
+        app:srcCompat="@android:drawable/ic_input_add"
+        android:tint="@android:color/white"
+        app:elevation="5dp"
+        android:id="@+id/floatActionButton_addPlayer"
+        android:layout_below="@id/team_detail_header"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <ListView
+        android:id="@+id/list_view_team_roster"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/team_detail_header" />
+
+
+</RelativeLayout>

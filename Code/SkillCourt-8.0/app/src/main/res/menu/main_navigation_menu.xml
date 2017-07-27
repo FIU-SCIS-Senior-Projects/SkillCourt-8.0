@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:icon="@drawable/ic_home_black_24dp"
+            android:id="@+id/home"
+            android:title="Home"
+            android:checked="true" />
+
+        <item
+            android:id="@+id/dyn_seq"
+            android:icon="@drawable/ic_extension_black_24dp"
+            android:title="Dynamic Sequences"
+            android:checked="false" />
+        <item
+            android:id="@+id/statistics"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:title="Statistics"
+            android:checked="false" />
+
+        <item
+            android:id="@+id/coaching_features"
+            android:icon="@drawable/ic_hourglass_empty_black_24dp"
+            android:title="Coaching"
+            android:checked="false" />
+
+    </group>
+
+    <group>
+
+        <item
+            android:id="@+id/action_sign_out"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Sign out"
+            android:checked="false" />
+
+    </group>
+</menu>

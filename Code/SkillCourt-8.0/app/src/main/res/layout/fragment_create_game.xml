@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:background="@color/background"
+        android:gravity="center_horizontal"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/game_content"
+            android:orientation="vertical" android:layout_width="match_parent"
+            android:background="@color/background"
+            android:visibility="gone"
+            tools:visibility="visible"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Base.TextAppearance.AppCompat.Small"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:text="Game Settings"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"
+                android:padding="@dimen/activity_horizontal_margin">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="@string/time"
+                        style="@style/TextAppearance.AppCompat.Small"/>
+
+                    <Button
+                        android:id="@+id/btn_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="00:00"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        style="@style/Base.Widget.AppCompat.Button.Borderless"/>
+
+                </RelativeLayout>
+
+                <View android:layout_height="1dp" android:layout_width="match_parent"
+                    android:background="@color/background"/>
+
+
+                <RelativeLayout
+                    android:layout_marginTop="@dimen/activity_horizontal_margin"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_game_mode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="@string/game_mode"
+                        style="@style/TextAppearance.AppCompat.Small"/>
+
+                    <Button
+                        android:id="@+id/btn_gameMode"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="game mode"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        style="@style/Base.Widget.AppCompat.Button.Borderless"/>
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_marginTop="@dimen/activity_horizontal_margin"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/tv_sequences"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:text="@string/tvsequences"
+                        style="@style/TextAppearance.AppCompat.Small"/>
+                    <Spinner
+                        android:id="@+id/sequence_spinner"
+                        android:textSize="15sp"
+                        android:textColor="#000000"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:layout_width="wrap_content"/>
+                </RelativeLayout>
+
+
+                <View android:layout_height="1dp" android:layout_width="match_parent"
+                    android:background="@color/background"/>
+
+
+                <LinearLayout
+                    android:id="@+id/mode_timer_container"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <RelativeLayout
+                        android:layout_marginTop="@dimen/activity_horizontal_margin"
+                        android:layout_width="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/time_objective_tv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:text="@string/time_objective"
+                            style="@style/TextAppearance.AppCompat.Small"/>
+
+                        <Button
+                            android:id="@+id/time_objective_button"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:text="0"
+                            style="@style/Base.Widget.AppCompat.Button.Borderless"/>
+
+                    </RelativeLayout>
+
+
+                    <TextView
+                        android:id="@+id/tv_mode_timer_explained"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="10sp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="On Beat Timer mode you can pick the frequency which the lights will change. If you set 2, each 2 seconds the lights will change"
+                        android:layout_above="@id/time_objective_tv"/>
+
+
+                </LinearLayout>
+
+
+                <!--<View android:layout_height="1dp" android:layout_width="match_parent"-->
+                <!--android:background="@color/background"/>-->
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/start_game"
+                    android:layout_marginTop="@dimen/activity_horizontal_margin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.AppCompat.Button.Colored"
+                    android:layout_gravity="right|end"
+                    android:text="@string/start_game"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/loading_arduinos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="visible"
+            tools:visibility="gone"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+
+            android:orientation="vertical">
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/Widget.AppCompat.ProgressBar"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+                android:text="@string/verifying_connection_to_arduinos"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
